@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Yeager28",
+  "repo": "container-ikbsyz8",
+  "name": "Yeager28",
+  "email": "boostxd02@gmail.com",
+}
